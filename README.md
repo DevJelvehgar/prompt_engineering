@@ -2,5 +2,5 @@
 A Guide to Crafting Effective Prompts for Diverse Applications
 
 ## Topics
-1. Intro to important note in prompt enginerring
-2. Focus on adv prompt principles and steps
+1. Intro to important notes in prompt engineering
+2. Focus on the adv prompt principles and steps
